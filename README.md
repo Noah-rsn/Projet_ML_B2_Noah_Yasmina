@@ -7,6 +7,7 @@ Pour l'EDA : EDA/EDA_Noah.ipynb
 Pour le Préprocessing : Preprocess/preprocess_v3_Noah.ipynb
 
 Pour les modèles : 
+
     Modèles classiques : Modélisation/Modelisation_VF.ipynb
     
     Modèle XGBoost (choisi) : Modélidation/model_XGboost_v2.ipynb
